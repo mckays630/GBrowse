@@ -107,9 +107,7 @@ conf/synteny/wild_rice_synteny.conf
 conf/themes/solid_gray_colors
 conf/themes/transparent_colors
 conf/themes/warm_colors
-conf/volvox.conf
-conf/yeast_chr1+2.conf
-conf/yeast_renderfarm.conf
+conf/mouse.conf
 conf/yeast_simple.conf
 contrib/ace2gff.pl
 contrib/AxtPairwise_convert/axt2phy.pl
@@ -665,6 +663,7 @@ sample_data/yeast_chr1+2/yeast_chr1+2.gff3
 sample_data/yeast_scaffolds/chr1.fa
 sample_data/yeast_scaffolds/chr2.fa
 sample_data/yeast_scaffolds/chromosomes.gff3
+sample_data/mouse_scaffolds/chromosomes.gff3
 t/00.compile.t
 t/01.yeast.t
 t/02.rearchitecture.t
