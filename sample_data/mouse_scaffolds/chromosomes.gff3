@@ -1,0 +1,23 @@
+##gff-version 3
+chr1	Ensembl	chromosome	1	195471971	.	.	.	ID=chromosome:chr1;Alias=CM000994.2,NC_000067.6,chr1
+chr10	Ensembl	chromosome	1	130694993	.	.	.	ID=chromosome:chr10;Alias=CM001003.2,NC_000076.6,chr10
+chr11	Ensembl	chromosome	1	122082543	.	.	.	ID=chromosome:chr11;Alias=CM001004.2,NC_000077.6,chr11
+chr12	Ensembl	chromosome	1	120129022	.	.	.	ID=chromosome:chr12;Alias=CM001005.2,NC_000078.6,chr12
+chr13	Ensembl	chromosome	1	120421639	.	.	.	ID=chromosome:chr13;Alias=CM001006.2,NC_000079.6,chr13
+chr14	Ensembl	chromosome	1	124902244	.	.	.	ID=chromosome:chr14;Alias=CM001007.2,NC_000080.6,chr14
+chr15	Ensembl	chromosome	1	104043685	.	.	.	ID=chromosome:chr15;Alias=CM001008.2,NC_000081.6,chr15
+chr16	Ensembl	chromosome	1	98207768	.	.	.	ID=chromosome:chr16;Alias=CM001009.2,NC_000082.6,chr16
+chr17	Ensembl	chromosome	1	94987271	.	.	.	ID=chromosome:chr17;Alias=CM001010.2,NC_000083.6,chr17
+chr18	Ensembl	chromosome	1	90702639	.	.	.	ID=chromosome:chr18;Alias=CM001011.2,NC_000084.6,chr18
+chr19	Ensembl	chromosome	1	61431566	.	.	.	ID=chromosome:chr19;Alias=CM001012.2,NC_000085.6,chr19
+chr2	Ensembl	chromosome	1	182113224	.	.	.	ID=chromosome:chr2;Alias=CM000995.2,NC_000068.7,chr2
+chr3	Ensembl	chromosome	1	160039680	.	.	.	ID=chromosome:chr3;Alias=CM000996.2,NC_000069.6,chr3
+chr4	Ensembl	chromosome	1	156508116	.	.	.	ID=chromosome:chr4;Alias=CM000997.2,NC_000070.6,chr4
+chr5	Ensembl	chromosome	1	151834684	.	.	.	ID=chromosome:chr5;Alias=CM000998.2,NC_000071.6,chr5
+chr6	Ensembl	chromosome	1	149736546	.	.	.	ID=chromosome:chr6;Alias=CM000999.2,NC_000072.6,chr6
+chr7	Ensembl	chromosome	1	145441459	.	.	.	ID=chromosome:chr7;Alias=CM001000.2,NC_000073.6,chr7
+chr8	Ensembl	chromosome	1	129401213	.	.	.	ID=chromosome:chr8;Alias=CM001001.2,NC_000074.6,chr8
+chr9	Ensembl	chromosome	1	124595110	.	.	.	ID=chromosome:chr9;Alias=CM001002.2,NC_000075.6,chr9
+chrMT	Ensembl	chromosome	1	16299	.	.	.	ID=chromosome:chrMT;Alias=NC_005089.1,chrM,AY172335.1
+chrX	Ensembl	chromosome	1	171031299	.	.	.	ID=chromosome:chrX;Alias=CM001013.2,NC_000086.7,chrX
+chrY	Ensembl	chromosome	1	91744698	.	.	.	ID=chromosome:chrY;Alias=CM001014.2,NC_000087.7,chrY
